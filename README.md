@@ -28,7 +28,7 @@ Quim Alborch // v0.3.28.
 
 # ES: Running Your Site Locally
 
-1. Instale [Node.js y npm] (https://nodejs.org/en/)
+1. Instale [Node.js and npm](https://nodejs.org/en/)
 
 1. Instale las dependencias npm:
 
@@ -48,4 +48,4 @@ Quim Alborch // v0.3.28.
 
         npm run develop
 
-1. Buscar [http://localhost:8000/](http://localhost:8000/)
+1. Busca en [http://localhost:8000/](http://localhost:8000/)
