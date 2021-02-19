@@ -2,9 +2,7 @@
 
 Quim Alborch // v0.3.28.
 
-EN:
-
-# Running Your Site Locally
+# EN: Running Your Site Locally
 
 1. Install [Node.js and npm](https://nodejs.org/en/)
 
@@ -28,9 +26,7 @@ EN:
 
 1. Browse to [http://localhost:8000/](http://localhost:8000/)
 
-ES:
-
-# Running Your Site Locally
+# ES: Running Your Site Locally
 
 1. Instale [Node.js y npm] (https://nodejs.org/en/)
 
